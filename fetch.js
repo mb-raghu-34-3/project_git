@@ -32,3 +32,4 @@ const asyncFetch = async () => {
 }
 
 asyncFetch()
+console.log('hello')
