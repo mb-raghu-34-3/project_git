@@ -32,4 +32,4 @@ const asyncFetch = async () => {
 }
 
 asyncFetch()
-console.log('hello')
+console.log('hello git hub ')
